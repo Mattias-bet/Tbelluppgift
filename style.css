@@ -1,0 +1,34 @@
+h1{ 
+   color: red;
+   font-size: 22px;
+   font-family: "Arial";
+}
+p, h6{
+    color:lime;
+    font-size: 15px;
+}
+p, h2{
+    font-size:19px;
+    color:lime;
+}
+body{
+    background-color:black;        
+}
+a:link {
+text-decoration:none;
+}
+h1, h2 {
+    text-align: center;
+}
+p1 {
+    border-style:solid;
+    border-color:White;
+}
+h2{
+    font-family: "Arial";
+}
+p1 {
+    color:lime;
+    font-size:50px
+    border-style:solid;
+    border-color:White;
