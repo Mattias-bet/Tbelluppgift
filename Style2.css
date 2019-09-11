@@ -1,0 +1,19 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr:nth-child(3){color:Black;
+    background-color:Red;
+}
+
+tr:nth-child(5){color:Black;
+    background-color:Red;
+}
+tr:nth-child(2){color:Black;
+    background-color:Yellow;
+}
+tr:nth-child(4){color:Black;
+    background-color:Yellow;
+}
